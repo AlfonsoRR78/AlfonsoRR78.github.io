@@ -16,3 +16,10 @@ p {
     font-size: 50px;
     margin-left: 25rem;
 }
+
+.parrafo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: #fff;
+}
