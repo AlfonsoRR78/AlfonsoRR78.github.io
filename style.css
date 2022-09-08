@@ -1,0 +1,18 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+p {
+    color: aqua;
+}
+
+.poncho {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-left: 25rem;
+}
